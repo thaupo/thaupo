@@ -1,62 +1,90 @@
-# Hi I am Apu
+<h1 align="center">Apu</h1>
 
-Data Science student focused on building practical machine learning systems, data-driven applications, and real-world datasets through end-to-end projects.
+<p align="center">
+Data Science Student | Machine Learning | Data Engineering | AI Systems
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/thapu/">LinkedIn</a> • 
+<a href="https://www.kaggle.com/thaupo">Kaggle</a>
+</p>
 
 ---
 
 ## 🚀 About Me
-I am an undergraduate Data Science student with a strong interest in machine learning, data analysis, and data engineering fundamentals. I focus on building complete projects that go beyond classroom exercises, aiming to work with real-world data and practical problem-solving.
+I am a Data Science undergraduate focused on building real-world machine learning systems and data-driven applications.
+
+My focus is on moving beyond coursework by working with real datasets, APIs, and end-to-end data pipelines.
 
 ---
 
-## 🎯 Current Focus
-- Machine Learning fundamentals and applied modeling
-- Data collection from multiple sources (APIs, web scraping)
-- Feature engineering and dataset building
-- End-to-end project development
-- Improving problem-solving and analytical thinking
+## 🧠 Current Focus
+- Machine Learning & predictive modeling  
+- Data collection using APIs and web scraping  
+- Feature engineering and dataset construction  
+- End-to-end DS project development  
+- Improving analytical and problem-solving skills  
 
 ---
 
-## 🛠️ Technical Skills
-**Programming:** Python, SQL  
-**Data Science:** Pandas, NumPy, Scikit-learn, Matplotlib  
-**Data Collection:** APIs, BeautifulSoup, Selenium  
-**Tools:** Git, GitHub  
+## 🛠️ Tech Stack
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-8B0000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
 
 ---
 
 ## 📌 Projects
 
 ### 🎓 Course Compass
-A desktop-based application built with Tkinter that helps students manage academic planning by tracking credits, estimating course difficulty, and guiding course selection decisions.
+Desktop application built with Tkinter that helps students plan academic progress through credit tracking, course selection guidance, and difficulty estimation.
 
 ---
 
 ### 🎬 Movie Success Dataset (In Progress)
-A multi-source data engineering and analysis project that integrates data from APIs and web scraping (BeautifulSoup, Selenium) to build an enhanced dataset for movie success prediction and analysis.
+A multi-source data engineering project that integrates APIs and web scraping (BeautifulSoup, Selenium) to build a structured dataset for movie success analysis and prediction.
 
 ---
 
-### 📊 Machine Learning Coursework Projects
-Feature engineering and predictive modeling projects developed using structured datasets, focusing on classification and regression tasks.
+### 📊 ML Coursework Projects
+Machine learning projects focused on feature engineering, classification, and regression tasks using structured datasets.
 
 ---
 
-## 📈 What I'm Working On
-- Improving data pipeline design and project structure
-- Strengthening ML model evaluation and feature engineering
-- Learning scalable project development practices
+## 📈 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=thapu&show_icons=true&theme=tokyonight" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapu&layout=compact&theme=tokyonight" height="160"/>
+</p>
 
 ---
 
-## 🎯 Goals
-- Develop strong end-to-end ML and data engineering capabilities
-- Work on real-world datasets and applied AI systems
-- Build a professional portfolio with production-style projects
+## 🎯 Current Direction
+- Building end-to-end ML pipelines  
+- Improving dataset engineering skills  
+- Learning deployment basics (Streamlit / APIs)  
+- Strengthening model evaluation & feature engineering  
+
+---
+
+## 🎯 Goal
+To pursue a Master’s in Data Science / Machine Learning abroad with a strong portfolio of real-world, end-to-end projects.
 
 ---
 
 ## 🌐 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/thapu/
-- Kaggle: https://www.kaggle.com/thaupo
+<p align="center">
+<a href="https://www.linkedin.com/in/thapu/">LinkedIn</a> • 
+<a href="https://www.kaggle.com/thaupo">Kaggle</a>
+</p>
