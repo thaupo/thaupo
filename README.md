@@ -50,7 +50,7 @@ Feature engineering and predictive modeling projects developed using structured 
 
 ---
 
-## 🎯 Goles
+## 🎯 Goals
 - Develop strong end-to-end ML and data engineering capabilities
 - Work on real-world datasets and applied AI systems
 - Build a professional portfolio with production-style projects
