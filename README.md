@@ -1,90 +1,62 @@
-<h1 align="center">Apu</h1>
+# Hi I am Apu
 
-<p align="center">
-Data Science Student | Machine Learning | Data Engineering | AI Systems
-</p>
+**Data Science Undergraduate** — focused on end-to-end ML systems, data engineering, and real-world deployment.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/thapu/">LinkedIn</a> • 
-<a href="https://www.kaggle.com/thaupo">Kaggle</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thapu/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/thaupo)
 
----
+-----
 
-## 🚀 About Me
-I am a Data Science undergraduate focused on building real-world machine learning systems and data-driven applications.
+## Focus
 
-My focus is on moving beyond coursework by working with real datasets, APIs, and end-to-end data pipelines.
+Building production-grade data pipelines and ML systems — not just notebook experiments. My work centers on dataset construction from raw sources (APIs, scraping), feature engineering, and model development with a path toward deployment.
 
----
+**Current emphasis:** Multi-source data engineering · Predictive modeling · Pipeline architecture · Streamlit/API deployment
 
-## 🧠 Current Focus
-- Machine Learning & predictive modeling  
-- Data collection using APIs and web scraping  
-- Feature engineering and dataset construction  
-- End-to-end DS project development  
-- Improving analytical and problem-solving skills  
+-----
 
----
+## Projects
 
-## 🛠️ Tech Stack
+### [Movie Success Dataset](link) `In Progress`
+
+End-to-end data engineering project. Aggregates movie metadata from multiple APIs and scrapes supplementary data using Selenium and BeautifulSoup. Goal: a clean, structured dataset suitable for success prediction modeling.
+
+**Stack:** Python · BeautifulSoup · Selenium · Pandas · REST APIs
+
+-----
+
+### [Course Compass](link)
+
+Desktop application for academic planning. Tracks credit completion, guides course selection, and estimates difficulty load per semester.
+
+**Stack:** Python · Tkinter
+
+-----
+
+### ML Coursework Projects
+
+Classification and regression work using structured datasets. Focus on feature engineering, cross-validation, and evaluation methodology.
+
+**Stack:** Scikit-learn · Pandas · NumPy
+
+-----
+
+## Stack
+
+**Languages:** Python · SQL  
+**ML/Data:** Scikit-learn · Pandas · NumPy · Matplotlib  
+**Engineering:** BeautifulSoup · Selenium · REST APIs  
+**Tooling:** Git · GitHub
+
+-----
+
+## Stats
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=black"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-<img src="https://img.shields.io/badge/BeautifulSoup-8B0000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thapu&show_icons=true&theme=default&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapu&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
----
+-----
 
-## 📌 Projects
-
-### 🎓 Course Compass
-Desktop application built with Tkinter that helps students plan academic progress through credit tracking, course selection guidance, and difficulty estimation.
-
----
-
-### 🎬 Movie Success Dataset (In Progress)
-A multi-source data engineering project that integrates APIs and web scraping (BeautifulSoup, Selenium) to build a structured dataset for movie success analysis and prediction.
-
----
-
-### 📊 ML Coursework Projects
-Machine learning projects focused on feature engineering, classification, and regression tasks using structured datasets.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=thapu&show_icons=true&theme=tokyonight" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapu&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-## 🎯 Current Direction
-- Building end-to-end ML pipelines  
-- Improving dataset engineering skills  
-- Learning deployment basics (Streamlit / APIs)  
-- Strengthening model evaluation & feature engineering  
-
----
-
-## 🎯 Goal
-To pursue a Master’s in Data Science / Machine Learning abroad with a strong portfolio of real-world, end-to-end projects.
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/thapu/">LinkedIn</a> • 
-<a href="https://www.kaggle.com/thaupo">Kaggle</a>
-</p>
+*Targeting a Master’s in Data Science / ML. Building a portfolio of real-world, end-to-end projects to get there.*
