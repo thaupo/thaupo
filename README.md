@@ -1,4 +1,4 @@
-# Apu
+# Hi I am Apu
 
 Data Science student focused on building practical machine learning systems, data-driven applications, and real-world datasets through end-to-end projects.
 
@@ -47,12 +47,10 @@ Feature engineering and predictive modeling projects developed using structured 
 - Improving data pipeline design and project structure
 - Strengthening ML model evaluation and feature engineering
 - Learning scalable project development practices
-- Building a strong portfolio for MS applications abroad
 
 ---
 
-## 🎯 Goals
-- Pursue a Master’s in Data Science or Machine Learning abroad
+## 🎯 Goles
 - Develop strong end-to-end ML and data engineering capabilities
 - Work on real-world datasets and applied AI systems
 - Build a professional portfolio with production-style projects
