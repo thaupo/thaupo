@@ -102,9 +102,6 @@ Currently learning deployment basics — Streamlit dashboards and lightweight Fa
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thapu&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=58A6FF&title_color=58A6FF" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thapu&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF" height="160"/>
-
 </div>
 
 <div align="center">
