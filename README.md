@@ -26,7 +26,7 @@ My work centers on:
 - End-to-end pipeline development
 - Path toward deployment (Streamlit / FastAPI)
 
-**Goal:** Master’s in Data Science / ML abroad, backed by a strong project portfolio.
+**Goal:** ML abroad, backed by a strong project portfolio.
 
 <br clear="right"/>
 
