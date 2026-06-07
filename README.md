@@ -17,7 +17,7 @@
 
 ### About
 
-Data Science undergraduate focused on building real-world ML systems — not just notebooks.
+Data Science undergraduate focused on building real-world ML systems.
 
 My work centers on:
 
